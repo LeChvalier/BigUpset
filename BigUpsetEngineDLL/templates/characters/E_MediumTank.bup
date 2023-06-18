@@ -1,0 +1,21 @@
+<file>
+    <Characters>
+        <DieParticle>0</DieParticle>
+        <AttackParticle>2</AttackParticle>
+        <Reward>55</Reward>
+        <Price>0</Price>
+        <AISideTypeIndex>1</AISideTypeIndex>
+        <ScriptTypeIndex>1</ScriptTypeIndex>
+        <Damage>105</Damage>
+        <CanAttack>1</CanAttack>
+        <AttackSpeed>1</AttackSpeed>
+        <AttackRange>1</AttackRange>
+        <Speed>1</Speed>
+        <Life>500</Life>
+<Name>E_MediumTank</Name>
+        <PathMesh>../assets/Tank_s battle\Models\Enemies\M_MediumTank.obj</PathMesh>
+        <PathTexture>../assets/Tank_s battle\Textures\Enemies\T_MediumTank.tga</PathTexture>
+        <ShotSound>../assets/Tank_s battle\Sounds\SFX\SFX_Shot.ogg</ShotSound>
+        <DieSound>../assets/Tank_s battle\Sounds\SFX\SFX_Death.ogg</DieSound>
+    </Characters>
+</file>

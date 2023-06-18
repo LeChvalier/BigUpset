@@ -1,0 +1,14 @@
+<file>
+    <Particle>
+        <ParticleNumber>10</ParticleNumber>
+        <DiffusalDirectionZ>0</DiffusalDirectionZ>
+        <DiffusalDirectionY>0</DiffusalDirectionY>
+        <DiffusalDirectionX>1</DiffusalDirectionX>
+        <DiffusalAngleZ>0.2</DiffusalAngleZ>
+        <DiffusalAngleY>0.2</DiffusalAngleY>
+        <DiffusalAngleX>0.2</DiffusalAngleX>
+        <Diffusal>1</Diffusal>
+<PathTexture>../assets/Tank_s battle\Textures\Neutrals\T_GreenExplosion.png</PathTexture>
+        <Name>Green</Name>
+    </Particle>
+</file>

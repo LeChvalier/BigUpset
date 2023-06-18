@@ -1,0 +1,7 @@
+<file>
+    <Decors>
+<PathMesh>../assets/Tank_s battle\Models\Decors\M_Flower.obj</PathMesh>
+        <PathTexture>../assets/Tank_s battle\Textures\Decors\T_Flower.png</PathTexture>
+        <Name>Flower</Name>
+    </Decors>
+</file>

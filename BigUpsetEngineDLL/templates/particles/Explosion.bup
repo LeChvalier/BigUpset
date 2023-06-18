@@ -1,0 +1,14 @@
+<file>
+    <Particle>
+        <ParticleNumber>157</ParticleNumber>
+        <DiffusalDirectionZ>0</DiffusalDirectionZ>
+        <DiffusalDirectionY>1</DiffusalDirectionY>
+        <DiffusalDirectionX>0</DiffusalDirectionX>
+        <DiffusalAngleZ>3.575</DiffusalAngleZ>
+        <DiffusalAngleY>2.6930001</DiffusalAngleY>
+        <DiffusalAngleX>4.2639999</DiffusalAngleX>
+        <Diffusal>0</Diffusal>
+<PathTexture>../assets/Tank_s battle\Textures\Neutrals\T_Explosion.png</PathTexture>
+        <Name>Explosion</Name>
+    </Particle>
+</file>

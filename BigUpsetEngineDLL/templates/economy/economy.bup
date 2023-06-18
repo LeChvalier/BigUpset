@@ -1,0 +1,8 @@
+<file>
+    <EconomySystem>
+        <StartingMoney>1500</StartingMoney>
+        <MoneyPerSec>2</MoneyPerSec>
+        <MaxMoney>10000</MaxMoney>
+<Name>Gold</Name>
+    </EconomySystem>
+</file>

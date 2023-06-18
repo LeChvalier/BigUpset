@@ -1,0 +1,24 @@
+<file>
+    <Buildings>
+        <DieParticle>0</DieParticle>
+        <AttackParticle>1</AttackParticle>
+        <Reward>0</Reward>
+        <Price>95</Price>
+        <ScriptTypeIndexCreateable>0</ScriptTypeIndexCreateable>
+        <AISideTypeIndex>0</AISideTypeIndex>
+        <ScriptTypeIndex>3</ScriptTypeIndex>
+        <Damage>15</Damage>
+        <MainBuilding>0</MainBuilding>
+        <CanCreateCharacter>0</CanCreateCharacter>
+        <CanAttack>1</CanAttack>
+        <AttackSpeed>1</AttackSpeed>
+        <AttackRange>2</AttackRange>
+        <CooldownCreateCharacter>0</CooldownCreateCharacter>
+        <Life>450</Life>
+<Name>Turret</Name>
+        <PathMesh>../assets/Tank_s battle\Models\AlliesBuildings\M_Turret.obj</PathMesh>
+        <PathTexture>../assets/Tank_s battle\Textures\AlliesBuildings\T_Turret.jpg</PathTexture>
+        <ShotSound>../assets/Tank_s battle\Sounds\SFX\SFX_TurretShot.ogg</ShotSound>
+        <DieSound>../assets/Tank_s battle\Sounds\SFX\SFX_Death.ogg</DieSound>
+    </Buildings>
+</file>

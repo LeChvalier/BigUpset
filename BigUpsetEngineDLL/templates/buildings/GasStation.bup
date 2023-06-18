@@ -1,0 +1,24 @@
+<file>
+    <Buildings>
+        <DieParticle>0</DieParticle>
+        <AttackParticle>3</AttackParticle>
+        <Reward>0</Reward>
+        <Price>250</Price>
+        <ScriptTypeIndexCreateable>0</ScriptTypeIndexCreateable>
+        <AISideTypeIndex>0</AISideTypeIndex>
+        <ScriptTypeIndex>5</ScriptTypeIndex>
+        <Damage>20</Damage>
+        <MainBuilding>0</MainBuilding>
+        <CanCreateCharacter>0</CanCreateCharacter>
+        <CanAttack>1</CanAttack>
+        <AttackSpeed>2</AttackSpeed>
+        <AttackRange>1</AttackRange>
+        <CooldownCreateCharacter>0</CooldownCreateCharacter>
+        <Life>150</Life>
+<Name>GasStation</Name>
+        <PathMesh>../assets/Tank_s battle\Models\AlliesBuildings\M_GasStation.obj</PathMesh>
+        <PathTexture>../assets/Tank_s battle\Textures\AlliesBuildings\T_GasStation.png</PathTexture>
+        <ShotSound>DefaultFiles/DefaultSound.ogg</ShotSound>
+        <DieSound>DefaultFiles/DefaultSound.ogg</DieSound>
+    </Buildings>
+</file>

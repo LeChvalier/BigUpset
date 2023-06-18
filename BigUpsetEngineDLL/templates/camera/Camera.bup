@@ -1,0 +1,14 @@
+<file>
+    <Camera>
+        <FastSpeed>8</FastSpeed>
+        <NormalSpeed>2</NormalSpeed>
+        <Yaw>0</Yaw>
+        <Roll>0</Roll>
+        <Pitch>-1.15</Pitch>
+        <Near>0.1</Near>
+        <Far>75</Far>
+        <PosZ>5</PosZ>
+        <PosY>10</PosY>
+        <PosX>0</PosX>
+</Camera>
+</file>

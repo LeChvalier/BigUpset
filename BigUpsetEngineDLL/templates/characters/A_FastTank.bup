@@ -1,0 +1,21 @@
+<file>
+    <Characters>
+        <DieParticle>0</DieParticle>
+        <AttackParticle>1</AttackParticle>
+        <Reward>0</Reward>
+        <Price>75</Price>
+        <AISideTypeIndex>0</AISideTypeIndex>
+        <ScriptTypeIndex>0</ScriptTypeIndex>
+        <Damage>65</Damage>
+        <CanAttack>1</CanAttack>
+        <AttackSpeed>1</AttackSpeed>
+        <AttackRange>1</AttackRange>
+        <Speed>3</Speed>
+        <Life>250</Life>
+<Name>A_FastTank</Name>
+        <PathMesh>../assets/Tank_s battle\Models\Tanks\M_FastTank.obj</PathMesh>
+        <PathTexture>../assets/Tank_s battle\Textures\Tanks\T_FastTank.png</PathTexture>
+        <ShotSound>../assets/Tank_s battle\Sounds\SFX\SFX_Shot.ogg</ShotSound>
+        <DieSound>../assets/Tank_s battle\Sounds\SFX\SFX_Death.ogg</DieSound>
+    </Characters>
+</file>

@@ -1,0 +1,14 @@
+<file>
+    <Particle>
+        <ParticleNumber>25</ParticleNumber>
+        <DiffusalDirectionZ>0</DiffusalDirectionZ>
+        <DiffusalDirectionY>0</DiffusalDirectionY>
+        <DiffusalDirectionX>1</DiffusalDirectionX>
+        <DiffusalAngleZ>1</DiffusalAngleZ>
+        <DiffusalAngleY>1</DiffusalAngleY>
+        <DiffusalAngleX>1</DiffusalAngleX>
+        <Diffusal>1</Diffusal>
+<PathTexture>../assets/Tank_s battle\Textures\Neutrals\T_Mechanics.png</PathTexture>
+        <Name>Healing</Name>
+    </Particle>
+</file>

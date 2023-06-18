@@ -1,0 +1,24 @@
+<file>
+    <Buildings>
+        <DieParticle>0</DieParticle>
+        <AttackParticle>0</AttackParticle>
+        <Reward>0</Reward>
+        <Price>100</Price>
+        <ScriptTypeIndexCreateable>0</ScriptTypeIndexCreateable>
+        <AISideTypeIndex>0</AISideTypeIndex>
+        <ScriptTypeIndex>4</ScriptTypeIndex>
+        <Damage>0</Damage>
+        <MainBuilding>0</MainBuilding>
+        <CanCreateCharacter>1</CanCreateCharacter>
+        <CanAttack>0</CanAttack>
+        <AttackSpeed>0</AttackSpeed>
+        <AttackRange>0</AttackRange>
+        <CooldownCreateCharacter>0</CooldownCreateCharacter>
+        <Life>500</Life>
+<Name>CasernFast</Name>
+        <PathMesh>../assets/Tank_s battle\Models\AlliesBuildings\M_Casern.obj</PathMesh>
+        <PathTexture>../assets/Tank_s battle\Textures\Tanks\T_BlueTank.png</PathTexture>
+        <ShotSound>DefaultFiles/DefaultSound.ogg</ShotSound>
+        <DieSound>DefaultFiles/DefaultSound.ogg</DieSound>
+    </Buildings>
+</file>

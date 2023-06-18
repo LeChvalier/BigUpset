@@ -1,0 +1,7 @@
+<file>
+    <Decors>
+<PathMesh>../assets/Tank_s battle\Models\Decors\M_Tree.obj</PathMesh>
+        <PathTexture>../assets/Tank_s battle\Textures\Decors\T_Tree.png</PathTexture>
+        <Name>Tree</Name>
+    </Decors>
+</file>

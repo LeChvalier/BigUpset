@@ -1,0 +1,24 @@
+<file>
+    <Map>
+        <Seed>42</Seed>
+        <SpawnValue>16.058001</SpawnValue>
+        <FloorValueZ>86</FloorValueZ>
+        <FloorValueY>100</FloorValueY>
+        <FloorValueX>86</FloorValueX>
+        <Decor_B>1</Decor_B>
+        <Decor_G>2</Decor_G>
+        <Decor_R>0</Decor_R>
+        <ScaleZ>50</ScaleZ>
+        <ScaleY>1</ScaleY>
+        <ScaleX>50</ScaleX>
+        <RotZ>0</RotZ>
+        <RotY>0</RotY>
+        <RotX>0</RotX>
+        <PosZ>0</PosZ>
+        <PosY>0</PosY>
+        <PosX>0</PosX>
+<TextureMap>../assets/Tank_s battle\Textures\Maps\T_GameplayMap.png</TextureMap>
+        <GameplayMap>../assets/Tank_s battle\Textures\Maps\T_TextureMap.png</GameplayMap>
+        <ObjectMap>../assets/Tank_s battle\Textures\Maps\T_TextureMap.png</ObjectMap>
+    </Map>
+</file>
