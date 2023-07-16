@@ -3,6 +3,7 @@
 ![logo](https://i.imgur.com/KJdce0n.png)
 
 <h5>Par Lancelot BERNARD-LEPINE, Felix CHEVALIER et Jonathan DESHAYES.</h5>
+Débute le 09/02/2022 et fini le 17/06/2022 
 
 [![Video demo](https://media.discordapp.net/attachments/763144350086856735/1129828004349096036/image.png?width=1201&height=676)](https://www.youtube.com/watch?v=SY_2IulE8eY)
 
