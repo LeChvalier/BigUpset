@@ -31,7 +31,9 @@
 
 ## <u><h2 id="presented">Présentation</h2></u>
 
-<h3>BigUpset est un moteur de Jeux Vidéo spécialisé dans le développement de jeux RTS (Real-Time Strategy). Le moteur est dédié pour la conception de jeux vidéo pour le système d'exploitation Windows.</h3>
+<h3>BigUpset est un moteur de Jeux Vidéo spécialisé dans le développement de jeux RTS (Real-Time Strategy). Le moteur est dédié pour la conception de jeux vidéo pour le système d'exploitation Windows.
+developement entre le 09/02/2022 et fini le 17/06/2022
+</h3>
 
 <br>
 
